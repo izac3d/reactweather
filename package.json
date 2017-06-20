@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "simple app",
   "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
   "author": "Isaac",
   "dependencies": {
     "axios": "^0.16.2",
